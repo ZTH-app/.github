@@ -1,0 +1,4 @@
+{
+    "name": "Release",
+    "description": "Vuild l'app lors d'un push sur la branche release/* ou peut être déclenchée manuellement"
+}
