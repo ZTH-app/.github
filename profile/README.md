@@ -6,5 +6,7 @@ Il contient un projet backend de gestion de cours communautaires en ligne : un s
 
 Architecture : Microservices
 
-<iframe style="border:none" width="800" height="450" src="https://whimsical.com/embed/S9Kzwie4oZ99QQ23iy4cy1"></iframe>
+[![Capture-d-cran-2022-12-05-142044.png](https://i.postimg.cc/qMSj87XY/Capture-d-cran-2022-12-05-142044.png)](https://postimg.cc/QHgQDhzk)
+
+https://whimsical.com/embed/S9Kzwie4oZ99QQ23iy4cy1
 
